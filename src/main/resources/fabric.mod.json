@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "begonehorse",
-  "version": "1.2",
+  "version": "1.4",
   "name": "BegoneHorse",
   "description": "Make hoars go away",
   "authors": [
@@ -26,6 +26,6 @@
   "depends": {
     "fabricloader": ">=0.14.21",
     "fabric": "*",
-    "minecraft": "1.20"
+    "minecraft": "1.20.4"
   }
 }
